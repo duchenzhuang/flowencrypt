@@ -1,3 +1,5 @@
+This repo is the code of 《Secure Data Sharing Using Flow Model》 https://arxiv.org/abs/2009.11762
+
 Libraries are required:
     Python >= 3.6
     PyTorch >= 1.0
